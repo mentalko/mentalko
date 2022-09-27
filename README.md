@@ -7,5 +7,5 @@
 
 &nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mentalko&count_private=true&show_icons=true&hide_title=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=mentalko&count_private=true&show_icons=true&hide_title=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mentalko&layout=compact&card_width=445)
